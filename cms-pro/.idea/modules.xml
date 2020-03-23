@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cms-pro/cms-context/cms-context.iml" filepath="$PROJECT_DIR$/../cms-pro/cms-context/cms-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cms-pro/cms-core/cms-core.iml" filepath="$PROJECT_DIR$/../cms-pro/cms-core/cms-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cms-pro/cms-dao/cms-dao.iml" filepath="$PROJECT_DIR$/../cms-pro/cms-dao/cms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cms-pro/cms-portal/cms-portal.iml" filepath="$PROJECT_DIR$/../cms-pro/cms-portal/cms-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-pro.iml" filepath="$PROJECT_DIR$/cms-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cms-pro/cms-service/cms-service.iml" filepath="$PROJECT_DIR$/../cms-pro/cms-service/cms-service.iml" />
+    </modules>
+  </component>
+</project>
